@@ -129,7 +129,7 @@ body {
 }
 
 .cabecalho__avatar {
-    background-image: url(../img/cabecalho/Avatar.png);
+    background-image: url(../img/cabecalho/avatar.png);
     background-size: 40px 40px;
     background-color: var(--azul-claro);
     border-radius: 50%;
