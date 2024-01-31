@@ -70,15 +70,6 @@ Se você quiser contribuir para este projeto, fique à vontade para fazer um for
 
 Caso tenha alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato.
 
-## Vitrine.Dev
-
-| :placard: Vitrine.Dev |<a href="https://cursos.alura.com.br/vitrinedev/christianoliver">Christian Oliveira</a> |
-| -------------  | --- |
-| :sparkles: Nome        | **Aluraplay**
-| :label: Tecnologias | HTML, CSS, JS
-| :rocket: URL         |<a href="https://christianduhp.github.io/aluraplay">Execute aqui o projeto</a>
-
-
 ![image](https://github.com/christianduhp/aluraplay/assets/85292359/3d952eab-f1ad-4bf8-9f2d-ff1759f3e85b#vitrinedev)
 ![image](https://github.com/christianduhp/aluraplay/assets/85292359/3adebd08-e84f-46c2-8607-7373af7b196d#vitrinedev)
 ![image](https://github.com/christianduhp/aluraplay/assets/85292359/7bf7f1f5-ae3a-4d13-a5e6-4c6269ca7199#vitrinedev)
